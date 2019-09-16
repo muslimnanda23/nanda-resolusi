@@ -4,3 +4,4 @@ rencana jualan
 - makanan : snack
 - baju
 - acc handphone
+- acc motor
