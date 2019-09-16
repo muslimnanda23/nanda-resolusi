@@ -3,4 +3,6 @@ rencana jualan
 - acc komputer
 - makanan : snack
 - baju
-- acc handphone : casing, hp
+- acc handphone
+- acc motor
+- laptop
