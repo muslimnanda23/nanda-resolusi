@@ -4,5 +4,5 @@ rencana jualan
 - makanan : snack
 - baju
 - acc handphone
-- acc motor
+- acc motor : jupiter
 - laptop
