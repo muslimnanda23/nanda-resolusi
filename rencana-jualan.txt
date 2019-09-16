@@ -3,3 +3,4 @@ rencana jualan
 - acc komputer
 - makanan : snack
 - baju
+- acc handphone
