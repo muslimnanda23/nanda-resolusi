@@ -6,4 +6,5 @@ rencana jualan
 - acc handphone
 - acc motor : jupiter
 - laptop : rog
+- sepatu
 
